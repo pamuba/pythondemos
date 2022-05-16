@@ -1,1 +1,2 @@
-print("Hello")
+class A:
+    pass
